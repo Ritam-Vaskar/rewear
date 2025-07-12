@@ -61,7 +61,6 @@ Built using the **MERN Stack (MongoDB, Express.js, React, Node.js)** and deploye
 | **Node.js** | Runtime environment |
 | **TailwindCSS** | Utility-first styling framework |
 | **JWT Auth** | Authentication & route protection |
-| **Multer** | Image uploads |
 | **Vercel** | Deployed frontend |
 
 ---
@@ -69,7 +68,7 @@ Built using the **MERN Stack (MongoDB, Express.js, React, Node.js)** and deploye
 ## 🚀 Deployment
 
 - **Frontend:** [Vercel](https://vercel.com/)
-- **Backend:** Hosted locally (or deploy on Render/Heroku if needed)
+- **Backend:** [Render](https://render.com/)
 
 ---
 
@@ -79,7 +78,7 @@ Built using the **MERN Stack (MongoDB, Express.js, React, Node.js)** and deploye
 |------|------|
 | **Ritam Vaskar** | 🧠 Team Lead & Full Stack Developer |
 | **Rudrika Panigrahi** | 💻 Frontend Developer |
-| **Shreyash Singh** | 🔧 Backend Developer |
+| **Shreyash Singh** | 🔧 AI & Backend Developer |
 
 ---
 
@@ -88,13 +87,3 @@ Built using the **MERN Stack (MongoDB, Express.js, React, Node.js)** and deploye
 This project is based on **Problem Statement 3**:  
 > *Develop ReWear, a platform for swapping or donating clothing through a point system or direct exchange to promote sustainable fashion.*  
 [View Full Statement](https://github.com/Ritam-Vaskar/rewear.git)
-
----
-
-## 📷 Screenshots
-
-> (Add screenshots here in markdown or image format like below)
-
-```md
-![Landing Page](./screenshots/landing.png)
-![Dashboard](./screenshots/dashboard.png)
